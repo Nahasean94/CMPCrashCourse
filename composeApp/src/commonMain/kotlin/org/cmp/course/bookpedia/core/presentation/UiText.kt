@@ -1,4 +1,4 @@
-package com.plcoding.bookpedia.core.presentation
+package org.cmp.course.bookpedia.core.presentation
 
 import androidx.compose.runtime.Composable
 import org.jetbrains.compose.resources.StringResource

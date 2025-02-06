@@ -1,4 +1,4 @@
-package com.plcoding.bookpedia.core.domain
+package org.cmp.course.bookpedia.core.domain
 
 sealed interface DataError: Error {
     enum class Remote: DataError {

@@ -1,3 +1,3 @@
-package com.plcoding.bookpedia.core.domain
+package org.cmp.course.bookpedia.core.domain
 
 interface Error

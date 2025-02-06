@@ -1,7 +1,7 @@
-package com.plcoding.bookpedia.core.data
+package org.cmp.course.bookpedia.core.data
 
-import com.plcoding.bookpedia.core.domain.DataError
-import com.plcoding.bookpedia.core.domain.Result
+import org.cmp.course.bookpedia.core.domain.DataError
+import org.cmp.course.bookpedia.core.domain.Result
 import io.ktor.client.call.NoTransformationFoundException
 import io.ktor.client.call.body
 import io.ktor.client.network.sockets.SocketTimeoutException
